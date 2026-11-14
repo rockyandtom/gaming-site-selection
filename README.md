@@ -55,3 +55,9 @@ There are no runnable scripts in this package. It is prose guidance; URL pattern
 ## Origin
 
 Extracted from a personal WorkBuddy skill library and cleaned for public release: machine-specific absolute paths were replaced with portable ones, backup and build artifacts were excluded, and no credentials are included.
+
+## Companion site
+
+The channel ranking and the embed gate are explained in context at [WorkBuddy Central: Game Site Selection](https://workbuddycentral.com/game-site-selection/). This repository is the method; that page carries the written background and the limits of the 2026-09 snapshot.
+
+WorkBuddy Central is an independent, unofficial site, not affiliated with WorkBuddy or Tencent.
